@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.0.8000
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SugarCRM_CE_SOAP_V21_ClientLibrary", "SugarCRM_CE_SOAP_V21_ClientLibrary\SugarCRM_CE_SOAP_V21_ClientLibrary.csproj", "{0A690D8D-2100-440D-A1A7-9BE7A48E2DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SugarCRM_SOAP_Console_Client", "SugarCRM_SOAP_Console_Client\SugarCRM_SOAP_Console_Client.csproj", "{3673B7B3-BEA3-4C11-A229-96D6A89A36DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A690D8D-2100-440D-A1A7-9BE7A48E2DCF}.Debug|x86.Build.0 = Debug|x86
+		{0A690D8D-2100-440D-A1A7-9BE7A48E2DCF}.Debug|x86.ActiveCfg = Debug|x86
+		{0A690D8D-2100-440D-A1A7-9BE7A48E2DCF}.Release|x86.Build.0 = Release|x86
+		{0A690D8D-2100-440D-A1A7-9BE7A48E2DCF}.Release|x86.ActiveCfg = Release|x86
+		{3673B7B3-BEA3-4C11-A229-96D6A89A36DC}.Debug|x86.Build.0 = Debug|x86
+		{3673B7B3-BEA3-4C11-A229-96D6A89A36DC}.Debug|x86.ActiveCfg = Debug|x86
+		{3673B7B3-BEA3-4C11-A229-96D6A89A36DC}.Release|x86.Build.0 = Release|x86
+		{3673B7B3-BEA3-4C11-A229-96D6A89A36DC}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

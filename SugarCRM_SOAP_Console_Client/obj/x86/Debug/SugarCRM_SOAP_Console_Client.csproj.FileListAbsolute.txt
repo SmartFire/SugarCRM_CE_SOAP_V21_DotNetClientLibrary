@@ -1,0 +1,7 @@
+C:\Documents and Settings\amusarra\Documenti\SharpDevelop Projects\SugarCRM_CE_SOAP_V21_ClientLibrary\SugarCRM_SOAP_Console_Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\amusarra\Documenti\SharpDevelop Projects\SugarCRM_CE_SOAP_V21_ClientLibrary\SugarCRM_SOAP_Console_Client\bin\Debug\SugarCRM_CE_SOAP_V21_ClientLibrary.dll
+C:\Documents and Settings\amusarra\Documenti\SharpDevelop Projects\SugarCRM_CE_SOAP_V21_ClientLibrary\SugarCRM_SOAP_Console_Client\bin\Debug\SugarCRM_CE_SOAP_V21_ClientLibrary.pdb
+C:\Documents and Settings\amusarra\Documenti\SharpDevelop Projects\SugarCRM_CE_SOAP_V21_ClientLibrary\SugarCRM_SOAP_Console_Client\bin\Debug\SugarCRMClient.exe
+C:\Documents and Settings\amusarra\Documenti\SharpDevelop Projects\SugarCRM_CE_SOAP_V21_ClientLibrary\SugarCRM_SOAP_Console_Client\bin\Debug\SugarCRMClient.pdb
+C:\Documents and Settings\amusarra\Documenti\SharpDevelop Projects\SugarCRM_CE_SOAP_V21_ClientLibrary\SugarCRM_SOAP_Console_Client\obj\x86\Debug\SugarCRMClient.exe
+C:\Documents and Settings\amusarra\Documenti\SharpDevelop Projects\SugarCRM_CE_SOAP_V21_ClientLibrary\SugarCRM_SOAP_Console_Client\obj\x86\Debug\SugarCRMClient.pdb
